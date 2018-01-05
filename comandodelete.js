@@ -1,0 +1,1 @@
+deleteMessage('texto del mensaje', {params: {pushId: 'ssssooollll'}});

@@ -1,0 +1,1 @@
+createdMessage({before: 'old_data', after: 'new_data' }, {params: {pushId: 'ssssooollll'}});
